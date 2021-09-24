@@ -1,2 +1,3 @@
-# react-study-ztm-academy
-Projetcs from zero to Mastery Academy
+# Projects fom Zero to Mastery Course
+
+- Project Intro: Monster Rolodex
